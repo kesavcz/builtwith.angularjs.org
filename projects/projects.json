@@ -3668,7 +3668,20 @@
         "Responsive",
         "RESTful"
       ]
-    }
+    },
+  {
+    "name": "MyTube",
+    "thumb": "mytube/thumb.png",
+    "desc": "Experiment to make lighter version of YouTube with angular, uikit and slimphp",
+    "url": "http://mytube.vaclavkozelka.cz/",
+    "submitter": "kesavcz",
+    "submissionDate": "2015-03-22",
+    "tags": [
+      "YouTub",
+      "UiKit",
+      "SlimPHP"
+    ]
+  },
 
   ]
 }
